@@ -1,0 +1,18 @@
+#tarolo{
+    margin-left: auto;
+    margin-right: auto;
+    width: calc(50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.kistarolo{
+    width: calc(35%);
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    border: 1px solid black;
+}
